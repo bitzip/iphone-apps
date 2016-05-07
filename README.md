@@ -1,4 +1,4 @@
-# iphone-apps
+# iPhone-apps
 
 ## 工作学习
 * 提醒事项
@@ -22,7 +22,7 @@
 ## 图片
 * Annotate
 
-# 网络
+## 网络
 * Shadowrocket
 * Ai Search
 
