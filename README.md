@@ -4,9 +4,9 @@
 * 提醒事项
 * 备忘录
 * 邮件
+* 疯狂番茄
 * Evernote
 * Slack
-* 疯狂番茄
 * Daygram
 * Clear
 
