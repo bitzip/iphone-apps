@@ -19,8 +19,8 @@
 * 微信
 * 豆瓣
 
-## 图片
-* Annotate
+## 图片标注工具
+* 小Q画笔
 
 ## 网络
 * Shadowrocket
