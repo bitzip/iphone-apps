@@ -9,6 +9,7 @@
 * Slack
 * Daygram
 * Clear
+* Google sheet app
 
 ## 社交
 * Microfa
