@@ -12,7 +12,6 @@
 * Google sheet app
 
 ## 社交
-* Microfa
 * Twitter
 * Tumblr
 * Instagram
