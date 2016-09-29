@@ -7,6 +7,7 @@
 * 疯狂番茄
 * Evernote
 * Slack
+* Trello
 * Daygram
 * Clear
 * Google sheet app
