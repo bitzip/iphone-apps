@@ -5,6 +5,7 @@
 * 备忘录
 * 邮件
 * 疯狂番茄
+* 计时管理器
 * Evernote
 * Slack
 * Trello
@@ -20,16 +21,14 @@
 * 微信
 * 豆瓣
 
-## 图片标注工具
-* 小Q画笔
-
 ## 网络
 * Shadowrocket
 * Ai Search
 
 ## 工具
 * Launcher
-* 1Password
+* 1 Password
+* Workflow
 
 ## 地图
 * 百度地图
