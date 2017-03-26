@@ -17,7 +17,7 @@
 * Twitter
 * Tumblr
 * Instagram
-* 微博
+* Weico pro
 * 微信
 * 豆瓣
 
